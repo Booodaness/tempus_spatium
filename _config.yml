@@ -52,3 +52,6 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+permalink: /:title/
+redirect_to: https://booodaness.github.io/tempus-spatium/:title/
